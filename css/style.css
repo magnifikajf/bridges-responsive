@@ -194,10 +194,10 @@ footer .bottom-footer {
 }
 
 /* --------------------
-STYLES FOR MIN-WIDTH: 1023px
+STYLES FOR MIN-WIDTH: 950px
 --------------------- */
 
-@media (min-width: 1023px) {
+@media (min-width: 950px) {
     .wrapper-header {
         height: 3em;
         margin-bottom: 3%;
